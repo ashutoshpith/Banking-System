@@ -9,4 +9,12 @@
 U:/Hatchwin/cpp/BankingSystem/main.cpp
 iostream
 -
+fstream
+U:/Hatchwin/cpp/BankingSystem/fstream
+cstdio
+U:/Hatchwin/cpp/BankingSystem/cstdio
+time.h
+U:/Hatchwin/cpp/BankingSystem/time.h
+cstring
+U:/Hatchwin/cpp/BankingSystem/cstring
 
